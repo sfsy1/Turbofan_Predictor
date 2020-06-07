@@ -1,6 +1,6 @@
 # Turbofan Warning System
 DNN for predicting turbofan failure using [NASA Turbofan Simulation Dataset](https://ti.arc.nasa.gov/tech/dash/groups/pcoe/prognostic-data-repository/)
-
+![](https://raw.githubusercontent.com/sfsy1/Turbofan_Predictor/master/visual.png)
 #### Please refer to `.ipynb` and `.pdf` files for full details.
 
 ## Requirements
